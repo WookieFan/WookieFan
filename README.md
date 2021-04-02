@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WookieFan
 - 👀 I’m interested in football(soccer,) rockets, science, and a whole bunch of other "nerdy" things.
 - 🌱 I’m currently learning Python and reinforcing my knowledge of SQL.
-- 💞️ I’m looking to collaborate on nothing yet, but give me time and I'll change this.
+- 💞️ I’m not looking to collaborate on anything yet, but give me time and I'll change this.
 - 📫 How to reach me dale.vaughn@pm.com OR www.linkedin.com/in/dale-r-vaughn
 
 <!---
